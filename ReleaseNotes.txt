@@ -1,0 +1,4 @@
+Release notes 2.1.2
+
+- Updated crawler public key
+- Daemon stability improvements
